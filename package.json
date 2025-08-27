@@ -1,0 +1,23 @@
+{
+  "name": "com.pixelsmao.unitymultimediasolution.multimediaplayer",
+  "version": "1.0.0",
+  "displayName": "Pixelsmao.UnityMultimediaSolution.MultimediaPlayer",
+  "description": "这是一个基于Unity中最火热的视频播放插件开发而来的，结合TouchSocket实现远程控制，支持TCP、UDP等协议的字符串消息控制视频的播控功能。",
+  "unity": "2021.3",
+  "author": {
+    "name": "Pixelsmao",
+    "email": "Pixelsmao@163.com"
+  },
+  "license": "MIT",
+  "keywords": [
+    "unity",
+    "multimedia",
+    "video"
+  ],
+  "documentation": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Pixelsmao/UnityMultimediaSolution-MultimediaPlayer.git"
+  },
+  "dependencies": {}
+}
